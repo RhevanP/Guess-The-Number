@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="what_can_it_be">It\'s between 1 and 10</string>
+    <string name="button">Let\'s guess</string>
+    <string name="buttonReset">Reset</string>
+    <string name="type_your_guess">Type your guess</string>
+    <string name="guess_is_above_10">You went above the limit of this game</string>
+    <string name="guess_is_0">You typed 0, not included in the game</string>
+    <string name="solution_is_higher">The solution is higher</string>
+    <string name="solution_is_lower">The solution is lower</string>
+    <string name="solution_found">You found the solution!</string>
+    <string name="history_of_guesses">Your history of guesses</string>
+    <string name="typed_no_numbers">Type a number! Don\'t leave the field blank!</string>
+</resources>
